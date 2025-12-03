@@ -1,1 +1,1 @@
-Second commit
+It has details of lecture 7
